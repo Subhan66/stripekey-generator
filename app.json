@@ -10,12 +10,12 @@
     "repository": "https://github.com/iam-NVN/stripekey-generator",
     "env": {
         "FORWARD_ID": {
-            "description": "Your UserID/Chat ID to forward live sk keys to",
+            "description": "6080546867",
             "required": true,
             "value": ""
         },
         "BOT_TOKEN": {
-            "description": "Bot token, get it from @BotFather.",
+            "description": "6270548850:AAFJku1dteLPLMkZJOcDz_N51rBoaH9X4oM",
             "required": true,
             "value": ""
         }
